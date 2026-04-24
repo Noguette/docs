@@ -72,8 +72,5 @@
   },
   "icons": {
     "library": "fontawesome"
-  },
-  "background": {
-    "decoration": "gradient"
   }
 }
