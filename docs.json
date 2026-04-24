@@ -47,8 +47,8 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Discord",
+        "href": "https://discord.gg/RJnX3jSVtA"
       }
     ],
     "primary": {
@@ -68,5 +68,8 @@
      "cursor",
      "vscode"
    ]
+  },
+  "banner": {
+    "dismissible": false
   }
 }
