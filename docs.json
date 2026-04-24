@@ -11,13 +11,13 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "À propos de la Fondation SCP",
+        "tab": "À propos",
         "pages": [
           "enonce-de-la-mission"
         ]
       },
       {
-        "tab": "Procédures de Quarantaine",
+        "tab": "Les Procédures",
         "groups": [
           {
             "group": "API documentation",
@@ -40,10 +40,10 @@
         "tab": "Lore Orion SCP"
       },
       {
-        "tab": "Relation avec les groupes d’intérêt"
+        "tab": "Les Relations"
       },
       {
-        "tab": "Le Gudule, Patapouf"
+        "tab": "Schmilblick"
       },
       {
         "tab": "Accréditations, itérations"
@@ -70,7 +70,7 @@
         "tab": "Centre des Nexus"
       },
       {
-        "tab": "Liste semi-complète des Départements de la Fondation"
+        "tab": "Liste des Départements"
       }
     ]
   },
