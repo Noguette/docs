@@ -79,5 +79,8 @@
       "dark": "#141414"
     },
     "decoration": "grid"
+  },
+  "appearance": {
+    "strict": true
   }
 }
