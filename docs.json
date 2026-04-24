@@ -13,64 +13,30 @@
       {
         "tab": "À propos",
         "pages": [
-          "enonce-de-la-mission"
+          "enonce-de-la-mission",
+          "accreditations-iterations",
+          "classe-d-objets-scp",
+          "niveau-de-menace",
+          "classe-du-personnel",
+          "les-procedures",
+          "schmilblick",
+          "centre-des-nexus",
+          "liste-des-departements"
         ]
       },
       {
-        "tab": "Les Procédures",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
+        "tab": "Lore Orion SCP",
+        "pages": [
+          "les-relations",
+          "force-d-intervention-mobile",
+          "zone-site"
         ]
       },
       {
-        "tab": "Lore Orion SCP"
-      },
-      {
-        "tab": "Les Relations"
-      },
-      {
-        "tab": "Schmilblick"
-      },
-      {
-        "tab": "Accréditations, itérations"
-      },
-      {
-        "tab": "Classe d’objets SCP"
-      },
-      {
-        "tab": "Reconfinement pour les nuls"
-      },
-      {
-        "tab": "Force d'Intervention Mobile"
-      },
-      {
-        "tab": "Zone/Site"
-      },
-      {
-        "tab": "Niveau de menace"
-      },
-      {
-        "tab": "Classe du personnel"
-      },
-      {
-        "tab": "Centre des Nexus"
-      },
-      {
-        "tab": "Liste des Départements"
+        "tab": "Tutoriel",
+        "pages": [
+          "reconfinement-pour-les-nuls"
+        ]
       }
     ]
   },
