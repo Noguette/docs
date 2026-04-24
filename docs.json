@@ -71,5 +71,6 @@
   },
   "banner": {
     "dismissible": true
-  }
+  },
+  "banner.content": ""
 }
