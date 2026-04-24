@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Site Zayin",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#334CBC",
+    "light": "#334CBC",
+    "dark": "#334CBC"
   },
   "favicon": "/logo/logo.png",
   "navigation": {
@@ -72,5 +72,10 @@
   },
   "icons": {
     "library": "fontawesome"
+  },
+  "background": {
+    "color": {
+      "dark": "#000000"
+    }
   }
 }
