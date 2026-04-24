@@ -70,6 +70,6 @@
    ]
   },
   "banner": {
-    "dismissible": false
+    "dismissible": true
   }
 }
