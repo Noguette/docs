@@ -76,11 +76,13 @@
   },
   "background": {
     "color": {
-      "dark": "#141414"
-    },
-    "decoration": "grid"
+      "dark": "#111111"
+    }
   },
   "appearance": {
     "strict": true
+  },
+  "fonts": {
+    "family": "Poppins"
   }
 }
