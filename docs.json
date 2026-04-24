@@ -68,5 +68,12 @@
      "cursor",
      "vscode"
    ]
+  },
+  "thumbnails": {
+    "appearance": "dark",
+    "background": "/logo/background.jpg"
+  },
+  "icons": {
+    "library": "fontawesome"
   }
 }
