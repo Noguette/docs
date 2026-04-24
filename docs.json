@@ -68,9 +68,5 @@
      "cursor",
      "vscode"
    ]
-  },
-  "banner": {
-    "dismissible": false,
-    "content": "a"
   }
 }
